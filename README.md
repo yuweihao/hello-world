@@ -1,2 +1,2 @@
 # hello-world
-Hello! I am Yu, Weihao.
+Hello! I am Weihao Yu.
