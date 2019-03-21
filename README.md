@@ -1,4 +1,4 @@
 # hello-world
 Hello! I am Weihao Yu.
 
-$K$
+<img src="http://www.forkosh.com/mathtex.cgi? K">
