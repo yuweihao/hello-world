@@ -1,4 +1,4 @@
 # hello-world
 Hello! I am Weihao Yu.
 
-<img src="http://www.forkosh.com/mathtex.cgi? K">
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">$k$</script>
